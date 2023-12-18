@@ -1,3 +1,5 @@
+## Setup & installation
+
 To reproduce the results first gather the datasets:
 
 1. In the /datasets folder download these 2 datasets (instructions in the link)
@@ -10,13 +12,13 @@ To reproduce the results first gather the datasets:
 3. Execute with ```python execute.py```
 
 
-Dataset:
+## Dataset:
 
 ![Distribution](distribution.png "Distribution")
 
-Accuracy:
+## Accuracy:
 
 The percentage of correct responses is 84.52%
 
-By category:
+## By category:
 ![By category](correct_by_class.png "By category")

@@ -8,3 +8,15 @@ To reproduce the results first gather the datasets:
    ```https://cloud.google.com/vertex-ai/docs/generative-ai/multimodal/sdk-for-gemini/gemini-sdk-overview-reference```
 
 3. Execute with ```python execute.py```
+
+
+Dataset:
+
+![Distribution](distribution.png "Distribution")
+
+Accuracy:
+
+The percentage of correct responses is 84.52%
+
+By category:
+![By category](correct_by_class.png "By category")

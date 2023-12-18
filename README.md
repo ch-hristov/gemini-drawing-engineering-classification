@@ -11,6 +11,14 @@ To reproduce the results first gather the datasets:
 
 3. Execute with ```python execute.py```
 
+Note: the categories are
+
+1. P&IDs
+2. Single line diagrams
+3. Data sheet
+4. Instruction manual
+5. Cause and Effect
+
 
 ## Dataset:
 

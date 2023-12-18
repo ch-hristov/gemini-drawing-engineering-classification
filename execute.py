@@ -1,5 +1,6 @@
 import pandas as pd
 import time
+
 from vertexai.preview.generative_models import GenerativeModel, Part, Image
 
 def generate_text(project_id: str, location: str, images_dir : str) -> pd.DataFrame:

@@ -1,3 +1,6 @@
+## Install
+1. Run ```pip install -r ./requirements.txt```
+
 To reproduce the results first gather the datasets:
 
 1. In the /datasets folder download these 2 datasets (instructions in the link)

@@ -1,0 +1,85 @@
+,response,file,category,verification
+0, This is an electrical schematic,./datasets/P&ID-4/train/img62560_1920_png.rf.53ff88b29ab713fcba89c59ede40afab.jpg,piping and instrumentation diagram (P&ID),Incorrect
+1, Piping and Instrumentation Diagram (P&ID),./datasets/P&ID-4/train/img71920_640_png.rf.1b3cb27778bd662b1e5704cdfc7c94fc.jpg,piping and instrumentation diagram (P&ID),Correct
+2, This is an electrical schematic,./datasets/P&ID-4/train/img51280_640_png.rf.20821e9c98d77bbacfe3e088731323a6.jpg,piping and instrumentation diagram (P&ID),Incorrect
+3, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img61920_1280_png.rf.0f4df3fa235413fd42fec372fa3f443c.jpg,piping and instrumentation diagram (P&ID),Correct
+4, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img62560_640_png.rf.a74dfd4f79d40afed8be7fe79d7596a6.jpg,piping and instrumentation diagram (P&ID),Correct
+5, Piping and Instrumentation Diagram (P&ID),./datasets/P&ID-4/train/img72560_0_png.rf.995c2d6625d0a7b3fc0a56e654aeb032.jpg,piping and instrumentation diagram (P&ID),Correct
+6, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img62560_640_png.rf.b5f49b269bad6229941c5a24939e8688.jpg,piping and instrumentation diagram (P&ID),Correct
+7, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img61920_1280_png.rf.7e893cd44d8d6561b7b50dbbe45bcb0a.jpg,piping and instrumentation diagram (P&ID),Correct
+8, schematic diagram,./datasets/P&ID-4/train/img52560_1920_png.rf.dea2e083f6d54ca7ebfde4f6f67ad76e.jpg,piping and instrumentation diagram (P&ID),Incorrect
+9, Piping and Instrumentation Diagram (P&ID),./datasets/P&ID-4/train/img72560_1280_png.rf.072f0824fd0ca83fbe697dbf77e08cce.jpg,piping and instrumentation diagram (P&ID),Correct
+10, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img62560_640_png.rf.4905c1421c71c0d533aa2ab4d20d4d94.jpg,piping and instrumentation diagram (P&ID),Correct
+11, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img1280_2560_png.rf.a7368a11d5882657278ac32dd217a5e7.jpg,piping and instrumentation diagram (P&ID),Correct
+12, Piping and Instrumentation Diagram (P&ID),./datasets/P&ID-4/train/img72560_0_png.rf.ae0ad752995ee1eabda1e0808bd03d0a.jpg,piping and instrumentation diagram (P&ID),Correct
+13, Piping and Instrumentation Diagram (P&ID),./datasets/P&ID-4/train/img51280_0_png.rf.9ff6eca23d95d7fc4c99c0516f32ce10.jpg,piping and instrumentation diagram (P&ID),Correct
+14, This is an electrical schematic,./datasets/P&ID-4/train/img51280_2560_png.rf.739275af31d195823b8e39db7a953537.jpg,piping and instrumentation diagram (P&ID),Incorrect
+15, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img71920_1280_png.rf.b9702a141a59997ff5382d030e3d7887.jpg,piping and instrumentation diagram (P&ID),Correct
+16, Piping and Instrumentation Diagram (P&ID),./datasets/P&ID-4/train/img51920_0_png.rf.b9acc7d7e84495273c2ad65e17bc1e29.jpg,piping and instrumentation diagram (P&ID),Correct
+17, blueprint,./datasets/P&ID-4/train/img72560_1920_png.rf.ae9b849fe09d74f48a25b63f55cf19f4.jpg,piping and instrumentation diagram (P&ID),Incorrect
+18, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img71920_640_png.rf.e3c0c798b73faccf48c1b19ee778080e.jpg,piping and instrumentation diagram (P&ID),Correct
+19, Piping and Instrumentation Diagram (P&ID),./datasets/P&ID-4/train/img51920_0_png.rf.11ae20d609fe398f6444300d53057f2d.jpg,piping and instrumentation diagram (P&ID),Correct
+20, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img72560_1280_png.rf.20d172e8288748771376456d2d6958b1.jpg,piping and instrumentation diagram (P&ID),Correct
+21, Piping and Instrumentation Diagram (P&ID),./datasets/P&ID-4/train/img72560_1280_png.rf.0bba37059f6c4c557918abecc3a604c5.jpg,piping and instrumentation diagram (P&ID),Correct
+22, schematic,./datasets/P&ID-4/train/img52560_1920_png.rf.782c483c2126fa5f3124066bbf174f6f.jpg,piping and instrumentation diagram (P&ID),Incorrect
+23, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img62560_0_png.rf.98278143f6259373e19661d74328cdaa.jpg,piping and instrumentation diagram (P&ID),Correct
+24, Piping and Instrumentation Diagram (P&ID),./datasets/P&ID-4/train/img51280_0_png.rf.7e1b8fffafcdd952bf8334a27a5fed80.jpg,piping and instrumentation diagram (P&ID),Correct
+25, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img62560_0_png.rf.8573d33c69de0d375da18a60348a8d25.jpg,piping and instrumentation diagram (P&ID),Correct
+26, technical drawing,./datasets/P&ID-4/train/img72560_1920_png.rf.2097e705422687d800e45607434da0c7.jpg,piping and instrumentation diagram (P&ID),Incorrect
+27, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img61280_0_png.rf.12539cf715a6e612bbb364bbcde82bd8.jpg,piping and instrumentation diagram (P&ID),Correct
+28, Piping and Instrumentation Diagram (P&ID),./datasets/P&ID-4/train/img52560_2560_png.rf.a2f9af7f24cba5ce70e1a279a583c714.jpg,piping and instrumentation diagram (P&ID),Correct
+29, Piping and Instrumentation Diagram (P&ID),./datasets/P&ID-4/train/img61280_1280_png.rf.e011c2a39aff61315a48bbe432167a0f.jpg,piping and instrumentation diagram (P&ID),Correct
+30, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img61280_1280_png.rf.b8a0eae6a9b9ea613312b03d121ae46f.jpg,piping and instrumentation diagram (P&ID),Correct
+31, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img1920_1920_png.rf.cb0daf195d16001b3881069e9a36f865.jpg,piping and instrumentation diagram (P&ID),Correct
+32, Piping and Instrumentation Diagram (P&ID),./datasets/P&ID-4/train/img71920_1280_png.rf.88b52319e5ff954c5d4e766d038bf8e7.jpg,piping and instrumentation diagram (P&ID),Correct
+33, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img61280_0_png.rf.9e7140b769c93855cc85964ab7ee2790.jpg,piping and instrumentation diagram (P&ID),Correct
+34, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img51280_1920_png.rf.b3de07147acb2d611db73f23244b2823.jpg,piping and instrumentation diagram (P&ID),Correct
+35, Piping and Instrumentation Diagram (P&ID),./datasets/P&ID-4/train/img72560_0_png.rf.9d097ad72635f71e2e3755ff4e62535c.jpg,piping and instrumentation diagram (P&ID),Correct
+36, Piping and Instrumentation Diagram (P&ID),./datasets/P&ID-4/train/img61920_1920_png.rf.13d7d1b545621b4232d7001c1c0c8215.jpg,piping and instrumentation diagram (P&ID),Correct
+37, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img1920_1280_png.rf.35c05945558ffea97c5f1b32a2236c2c.jpg,piping and instrumentation diagram (P&ID),Correct
+38, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img1920_1280_png.rf.1b588848fdec150ca9b0630b69f30583.jpg,piping and instrumentation diagram (P&ID),Correct
+39, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img61920_1280_png.rf.7d012c1eb67c9ba36d0f90fdd501a41f.jpg,piping and instrumentation diagram (P&ID),Correct
+40, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img71920_1920_png.rf.c9f203e096564c0d83cffd4cdd5e014a.jpg,piping and instrumentation diagram (P&ID),Correct
+41, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img61920_1920_png.rf.459d2d09c0d22338dd6a2fd3858a073b.jpg,piping and instrumentation diagram (P&ID),Correct
+42, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img62560_1920_png.rf.b492341bdf3da15e7619298145d55fbb.jpg,piping and instrumentation diagram (P&ID),Correct
+43, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img62560_1280_png.rf.d3c4c3bd4f60e5950630c7451245f954.jpg,piping and instrumentation diagram (P&ID),Correct
+44, This is an electrical schematic,./datasets/P&ID-4/train/img51280_1920_png.rf.fb32eb2691cdc23485a78ddf8753609b.jpg,piping and instrumentation diagram (P&ID),Incorrect
+45, Piping and Instrumentation Diagram (P&ID),./datasets/P&ID-4/train/img52560_2560_png.rf.1f9d8cfc747adb20910056772aeee808.jpg,piping and instrumentation diagram (P&ID),Correct
+46, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img62560_1280_png.rf.4814c4ed569b6b6e65fe521aab457106.jpg,piping and instrumentation diagram (P&ID),Correct
+47, Piping and Instrumentation Diagram (P&ID),./datasets/P&ID-4/train/img52560_2560_png.rf.ec85a06782f012bf5dea3c3413a23b19.jpg,piping and instrumentation diagram (P&ID),Correct
+48, Piping and Instrumentation Diagram (P&ID),./datasets/P&ID-4/train/img51280_0_png.rf.622a9b124bb619559984695c8d8f674f.jpg,piping and instrumentation diagram (P&ID),Correct
+49, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img62560_1920_png.rf.4a4b8f97e1941cb3c6a4606c4bbaa304.jpg,piping and instrumentation diagram (P&ID),Correct
+50, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img71920_1920_png.rf.0e5aeb55826a314b3e7fa41b15638fcc.jpg,piping and instrumentation diagram (P&ID),Correct
+51, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img61280_0_png.rf.24a6d209e9a16becc2840b4227a88a28.jpg,piping and instrumentation diagram (P&ID),Correct
+52, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img62560_0_png.rf.d1a75a91391a670738f8d3499f949ba1.jpg,piping and instrumentation diagram (P&ID),Correct
+53, Piping and Instrumentation Diagram (P&ID),./datasets/P&ID-4/train/img61280_1280_png.rf.4115a27d9ad278346e9ef444d049f05c.jpg,piping and instrumentation diagram (P&ID),Correct
+54, Piping and Instrumentation Diagram (P&ID),./datasets/P&ID-4/train/img1920_1280_png.rf.4b596fa023811e594fa5e8ab7953f447.jpg,piping and instrumentation diagram (P&ID),Correct
+55, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img61920_1920_png.rf.08f5424d7111cf60f4bc7fd81d3969c8.jpg,piping and instrumentation diagram (P&ID),Correct
+56, Piping and Instrumentation Diagram (P&ID),./datasets/P&ID-4/train/img51920_0_png.rf.83bc05cf59639e5c9c1e324b33579095.jpg,piping and instrumentation diagram (P&ID),Correct
+57, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img71920_640_png.rf.d15c2de9a709ec0ac810090fd512a9a8.jpg,piping and instrumentation diagram (P&ID),Correct
+58, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img51280_640_png.rf.e23557835f41ec28fc7dab4f0fd1d3b1.jpg,piping and instrumentation diagram (P&ID),Correct
+59, Piping and Instrumentation Diagram (P&ID),./datasets/P&ID-4/train/img71920_2560_png.rf.2f3d6754172e73c661e7931bb6426e20.jpg,piping and instrumentation diagram (P&ID),Correct
+60, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img71920_1920_png.rf.caf358ceb45d7394f532729e2c01c726.jpg,piping and instrumentation diagram (P&ID),Correct
+61, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img1920_1920_png.rf.08a58f4474726fcedd3ebc04646a5d5a.jpg,piping and instrumentation diagram (P&ID),Correct
+62, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img51280_2560_png.rf.ba1880658fb044275821ae4775d64f9f.jpg,piping and instrumentation diagram (P&ID),Correct
+63, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img62560_1280_png.rf.3d8b1353e9c10d042dcf952ee65ba679.jpg,piping and instrumentation diagram (P&ID),Correct
+64, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img71920_2560_png.rf.f4b215b0457cf49d3db81b4f9f9e4aa3.jpg,piping and instrumentation diagram (P&ID),Correct
+65, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img51280_640_png.rf.1f0f900e6562d5363ba665bbc24b0806.jpg,piping and instrumentation diagram (P&ID),Correct
+66, Piping and Instrumentation Diagram (P&ID),./datasets/P&ID-4/train/img71920_2560_png.rf.efc647a35263ad0cf16416cf19ad8fb8.jpg,piping and instrumentation diagram (P&ID),Correct
+67, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img1920_1920_png.rf.dde8f971698cc9cbfdbd1ae3aafa6cd6.jpg,piping and instrumentation diagram (P&ID),Correct
+68, Piping and Instrumentation Diagram (P&ID),./datasets/P&ID-4/train/img1280_2560_png.rf.72767640b2f20338a9ddf3b24354560b.jpg,piping and instrumentation diagram (P&ID),Correct
+69, section of a facility layout drawing,./datasets/P&ID-4/train/img52560_1920_png.rf.7f9348e8b4ddfe512320e8b6c514c5cc.jpg,piping and instrumentation diagram (P&ID),Incorrect
+70, process flow diagram (PFD),./datasets/P&ID-4/train/img72560_1920_png.rf.252f3f2d9eafb20ee785c3d6c49c6104.jpg,piping and instrumentation diagram (P&ID),Incorrect
+71, Piping and Instrumentation Diagram (P&ID),./datasets/P&ID-4/train/img1280_2560_png.rf.b53f094ed93a8d177fde40ef1f8baeb7.jpg,piping and instrumentation diagram (P&ID),Correct
+72, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img51280_1920_png.rf.bb82200f0ad75d758f5158922d0f6c69.jpg,piping and instrumentation diagram (P&ID),Correct
+73, Piping and Instrumentation Diagram (P&ID),./datasets/P&ID-4/train/img71920_1280_png.rf.a7c1e9607132c8e4ab4e44b3043c478f.jpg,piping and instrumentation diagram (P&ID),Correct
+74, piping and instrumentation diagram (P&ID),./datasets/P&ID-4/train/img51280_2560_png.rf.4d9befd80d944e2206c72ac9dc94bc19.jpg,piping and instrumentation diagram (P&ID),Correct
+75, single-line diagram,./datasets/S1_D-6/valid/SLD_23_png.rf.0aee589828671b664abac6dd24000848.jpg,single-line diagram,Correct
+76, power system single line diagram,./datasets/S1_D-6/valid/SLD_14_png.rf.191b7ef34919b64f94019fde32266b49.jpg,single-line diagram,Incorrect
+77, block diagram,./datasets/S1_D-6/valid/SLD_18_png.rf.8fa5ca315cee5856630362f14f712c74.jpg,single-line diagram,Incorrect
+78, single-line diagram,./datasets/S1_D-6/valid/SLD_07_png.rf.811efc001cdda02237605158702bcfe5.jpg,single-line diagram,Correct
+79, single-line diagram,./datasets/S1_D-6/valid/SLD_33_png.rf.50637f2fe65e202c1b9650f3e60b5539.jpg,single-line diagram,Correct
+80, data sheet for a differential pressure transmitter,./datasets/datasheets/datasheet1-836x1024.jpg,data sheet,Correct
+81, datasheet for a pressure transmitter,./datasets/datasheets/pressure-transmitter-datasheet-small.png,data sheet,Incorrect
+82, This is an instruction manual,./datasets/manual/haan-hd-50-page13.png,instruction manual,Correct
+83, cause and effect diagram,./datasets/cause&effect/cause-and-effect-drawing.png,cause and effect diagram,Correct

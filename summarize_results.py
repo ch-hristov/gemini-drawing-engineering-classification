@@ -49,19 +49,21 @@ results['category'] = results.apply(add_category, axis=1)
 # Apply the function to the results and print the results
 results["verification"] = results.apply(verify_response, axis=1)
 
+
+results.to_csv('postproces.csv')
 # Calculate the percentage of correct responses
 correct = results[results["verification"] == "Correct"]
 percentage = len(correct) / len(results) * 100
 
 print(f"The percentage of correct responses is {percentage:.2f}%")
 
-# # Plot the distribution by class
-# plt.figure(figsize=(10, 6))
-# plt.bar(results['category'].value_counts().index, results['category'].value_counts().values)
-# plt.xlabel("Class")
-# plt.ylabel("Count")
-# plt.title("Distribution by class")
-# plt.show()
+# Plot the distribution by class
+plt.figure(figsize=(12, 12))
+plt.bar(results['category'].value_counts().index, results['category'].value_counts().values)
+plt.xlabel("Class")
+plt.ylabel("Count")
+plt.title("Distribution by class")
+plt.show()
 
 
 # Group the results by the prediction and the verification
